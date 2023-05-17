@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Hi!](/assets/images/avatar.png)
+<img src="/assets/images/avatar.jpeg" alt= “Hi!” width="250" height="250">
 <br/><br/>
 
 Hi, I’m Vladimir — an iOS engineer with years of experience developing

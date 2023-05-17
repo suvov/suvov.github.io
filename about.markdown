@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Hi!](/assets/images/avatar.png)
+![Hi!](/assets/about/avatar.jpg){:height="250px" width="250px"}
 <br/><br/>
 
 Hi, I’m Vladimir — an iOS engineer with years of experience developing
